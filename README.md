@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/cyber-banner.png" width="100%" alt="Sifatuzzahan Cybersecurity Banner">
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:7c3aed&height=180&section=header" width="100%" alt="Cybersecurity Header"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm SIFATUZZAHAN</h1>
 
 <h3 align="center">🛡️ Cybersecurity Professional | Ethical Hacking | Web Security | Digital Forensics</h3>
@@ -11,6 +9,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Ethical+Hacking;Web+Security;WordPress+Security;Digital+Forensics;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:7c3aed&height=180&section=header" width="100%" alt="Cybersecurity Header"/>
 </p>
 
 
