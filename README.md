@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/cyber-banner.png" width="100%" alt="Sifatuzzahan Cybersecurity Banner">
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:7c3aed&height=180&section=header" width="100%" alt="Cybersecurity Header"/>
 </p>
 <h1 align="center">Hi 👋, I'm SIFATUZZAHAN</h1>
