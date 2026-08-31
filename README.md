@@ -1,6 +1,5 @@
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/sifatuzzahan.mp4" width="100%" controls>
-  </video>
+  <img src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/sifatuzzahan.gif" width="100%" alt="Sifatuzzahan Cybersecurity Banner">
 </p>
 
 <p align="center">
