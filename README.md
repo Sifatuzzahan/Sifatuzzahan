@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/sifatuzzahan.gif" width="100%" alt="Sifatuzzahan Cybersecurity Banner">
+  <img src="https://raw.githubusercontent.com/Sifatuzzahan/Sifatuzzahan/main/sifatuzzahan.gif" width="100%" alt="Sifatuzzahan Cybersecurity Homepage">
 </p>
 
 <p align="center">
